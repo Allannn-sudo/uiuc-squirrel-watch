@@ -6,6 +6,8 @@ A fun weather-aware web app that tells you how likely you are to spot squirrels 
 
 **Live demo:** https://allannn-sudo.github.io/uiuc-squirrel-watch/
 
+![IMG_2940](https://github.com/user-attachments/assets/8f5767ce-5e41-4c4d-ae83-fcbeacca283d)
+
 <img width="797" height="919" alt="Screenshot 2026-04-13 at 14 31 52" src="https://github.com/user-attachments/assets/36180086-1c09-4c8d-916f-c7e06f56a8ae" />
 
 ---
